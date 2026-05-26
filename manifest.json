@@ -1,0 +1,16 @@
+{
+  "name": "Anant Gita",
+  "short_name": "Anant Gita",
+  "start_url": "https://bcaprime.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#090b10",
+  "theme_color": "#d4a359",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
